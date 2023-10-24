@@ -22,7 +22,7 @@
 
 # 📖 Kayjee Hello Rails App <a name="about-project"></a>
 
-**Hello World Webpack App:** This project employs a Ruby on Rails app with PostgreSQL database, react and redux to practice creating one application using for both front end and back end.This is rendering random greeting to the user. 📚
+**Kayjee Hello Rails App:** This project employs a Ruby on Rails app with PostgreSQL database, react and redux to practice creating one application using for both front end and back end.This is rendering random greeting to the user. 📚
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,7 +100,7 @@ Or
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/kayjeee/Kayjee_hello_rails_app/issues/2/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,6 +137,6 @@ Definitely! We welcome any improvements or new ideas you may have. If your chang
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
